@@ -18,7 +18,7 @@ public class Main {
 
         System.out.println("Move up - y axis ");
         m2.moveUp();
-        System.out.println("Move Down - x axis ");
+        System.out.println("Move Down - y axis ");
         m2.moveDown();
         System.out.println("Move lef - x axis ");
         m2.moveLeft();
